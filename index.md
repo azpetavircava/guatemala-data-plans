@@ -64,3 +64,10 @@ layout: default
 
 　　祝你在危地马拉的每一刻，都能丝滑连线，分享见闻。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Guatemala SIM 卡购买与激活指南](https://faciylike.github.io/guatemala-sim-guides)
